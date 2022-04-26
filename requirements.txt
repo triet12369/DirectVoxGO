@@ -6,4 +6,4 @@ mmcv
 imageio
 imageio-ffmpeg
 opencv-python
-
+Ninja
