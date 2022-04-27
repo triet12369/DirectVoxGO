@@ -8,3 +8,4 @@ imageio-ffmpeg
 opencv-python
 Ninja
 einops
+open3d
